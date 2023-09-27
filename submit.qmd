@@ -12,6 +12,7 @@ library(dtplyr)
 library(dplyr)
 library(leaflet)
 library(leaflet.providers)
+library(R.utils)
 ```
 
 ```{r}
